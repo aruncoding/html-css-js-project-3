@@ -1,0 +1,130 @@
+@media only screen and (max-width:1210px){
+    .navbar-a{
+        flex-direction: column;
+    }
+
+    .navbar-b{
+        margin: 0;
+    }
+
+    .navbar-menu ul{
+        /* flex-direction: column; */
+        flex-wrap: wrap;
+    }
+
+    .burger{
+        display: block;
+    }
+
+    .services-content{
+        flex-wrap: wrap;
+        top: -5vw;
+    }
+
+.content-a{
+    margin-bottom: 10px;
+}
+
+.below-nav{
+    /* height: 100vh; */
+}
+
+.below-content{
+    position: relative;
+    top: -5vh;
+}
+
+.time-count{
+    flex-wrap: wrap;
+}
+
+.below-lenks{
+    flex-direction: column;
+}
+
+#pincode{
+    width: 72vw;
+}
+
+.pin-search{
+    margin-top: 10px;
+}
+
+.about-a{
+    flex-direction: column;
+    align-items: center;
+}
+
+.about{
+    padding: 27px;
+}
+
+.about-content{
+    width: 100%;
+}
+
+.about-aero img{
+    width: 15vw;
+}
+
+.about-ship img{
+    width: 15vw;
+}
+
+.about-image{
+    width: 100%;
+}
+
+.about-content{
+    margin-bottom: 33px;
+}
+
+.deliver-slidd{
+    width: 100%;
+}
+
+.delivery-btn{
+    width: 45%;
+}
+
+.feedback-a{
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+}
+
+.feedback-left{
+    width: 100%;
+    margin-bottom: 3vh;
+}
+
+.gallery-section{
+    flex-direction: column;
+}
+
+.first-image{
+    width: 70vw;
+    height: 14vh;
+}
+
+.foote-a{
+    flex-direction: column;
+}
+
+.foote{
+    padding: 50px 10px;
+}
+
+.connect-social{
+    flex-wrap: wrap;
+}
+
+.connect-social li{
+    margin-bottom: 10px;
+}
+
+.first-image img{
+    height: 100%;
+}
+
+}
